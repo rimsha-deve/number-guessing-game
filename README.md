@@ -124,6 +124,6 @@ python number_gussing_game.py
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
 Beginner Python project
